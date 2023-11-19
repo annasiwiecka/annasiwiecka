@@ -10,7 +10,10 @@ Python, Django, SQL, HTML, CSS, basics of JavaScript, basics of Bash, Linux
 
 
 ## Other 
-👩‍💻 I'm currently improve on my project: [Task-Management-for-Remote-Teams](https://github.com/annasiwiecka/Task-Management-for-Remote-Teams)
+
+👩‍💻 I'm constantly improve on my project: [Task-Management-for-Remote-Teams](https://github.com/annasiwiecka/Task-Management-for-Remote-Teams)
+
+⚡️ I'm currently working on my new project: [Scientific Data Analysis and Graph Generation](https://github.com/annasiwiecka/Scientific-Data-Analysis-and-Graph-Generation)
 
 🧠 I'm currently learning advanced JavaScript
 

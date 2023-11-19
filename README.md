@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Anna Siwiecka! 👋
 
-<!--
-**annasiwiecka/annasiwiecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am an up-and-coming programmer who wants to find a place with the opportunity to broaden horizons and
+get commercial experience as Python Developer. I have been learning for almost a year and I did my own project which I insist on checking it out. This project is in my repository [Task-Management-for-Remote-Teams](https://github.com/annasiwiecka/Task-Management-for-Remote-Teams)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python, Django, SQL, HTML, CSS, basics of JavaScript, basics of Bash, Linux
+
+
+## Other 
+👩‍💻 I'm currently improve on my project: [Task-Management-for-Remote-Teams](https://github.com/annasiwiecka/Task-Management-for-Remote-Teams)
+
+🧠 I'm currently learning advanced JavaScript
+
+

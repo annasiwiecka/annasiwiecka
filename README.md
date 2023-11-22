@@ -15,6 +15,6 @@ Python, Django, SQL, JavaScript, HTML, CSS,  Linux, basics of Bash
 
 ⚡️ I'm currently working on my new project: [Scientific Data Analysis and Graph Generation](https://github.com/annasiwiecka/Scientific-Data-Analysis-and-Graph-Generation)
 
-🧠 I'm currently learning advanced JavaScript
+🧠 I'm currently improving my knowledgde in JavaScript
 
 

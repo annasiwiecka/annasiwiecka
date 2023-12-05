@@ -6,7 +6,7 @@ I am an up-and-coming programmer who wants to find a place with the opportunity 
 get commercial experience as Python Developer. I have been learning for almost a year and I did my own project which I insist on checking it out. This project is in my repository [Task-Management-for-Remote-Teams](https://github.com/annasiwiecka/Task-Management-for-Remote-Teams)
 
 ## 🛠 Skills
-Python, Django, SQL, JavaScript, HTML, CSS,  Linux, basics of Bash
+Python, Django, SQL, PostgreSQL, JavaScript, HTML, CSS, Linux, basics of Bash
 
 
 ## Other 

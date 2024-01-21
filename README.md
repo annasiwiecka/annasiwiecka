@@ -11,7 +11,7 @@ Python, Django, SQL, PostgreSQL, JavaScript, HTML, CSS, Linux, basics of Bash
 
 ## Other 
 
-👩‍💻 I'm constantly improve on my project: [Task-Management-for-Remote-Teams](https://github.com/annasiwiecka/Task-Management-for-Remote-Teams)
+👩‍💻 I'm constantly improve my knowledge
 
 ⚡️ I'm currently working on my study project: SFML-GAME
 

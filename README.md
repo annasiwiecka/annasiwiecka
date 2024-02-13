@@ -13,8 +13,5 @@ Python, Django, SQL, PostgreSQL, JavaScript, HTML, CSS, C++, Linux, basics of Ba
 
 👩‍💻 I'm constantly improve my knowledge
 
-⚡️ I'm currently working on my study project: SFML-GAME
-
-🧠 I'm currently improving my knowledgde in JavaScript
 
 

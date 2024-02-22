@@ -12,7 +12,7 @@ Python, Django, SQL, PostgreSQL, JavaScript, HTML, CSS, C++, Linux, basics of Ba
 ## Other 
 
 👩‍💻 I'm constantly improve my knowledge
-⚡️ I'm currently working on my new project: [Sales Analysis With Graph Representation](https://github.com/annasiwiecka/Sales-Analysis-With-Graph-Representation)
+⚡️ I'm currently working on my new project: [Sales Analysis With Graph Generation](https://github.com/annasiwiecka/Sales-Analysis-With-Graph-Generation)
 
 
 

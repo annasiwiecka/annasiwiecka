@@ -7,10 +7,6 @@ get commercial experience as Python Developer. I have been learning for a year a
 
 
 
-## Other 
-
-👩‍💻 I'm constantly improve my knowledge
-
 
 
 

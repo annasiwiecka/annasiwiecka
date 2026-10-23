@@ -2,8 +2,8 @@
 
 I build data pipelines, data quality checks and analytics on top of
 well-modelled data. Currently completing a BEng in Computer Science in Engineering
-(graduating 2027) and working in service agreement management, where I work
-with SAP data, automate reporting and build dashboards.
+(graduating 2027) and working in service agreement management, where I build
+Excel/VBA macros for mass data uploads to SAP billing and create dashboards.
 
 ## Tech
 

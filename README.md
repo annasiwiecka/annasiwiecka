@@ -11,11 +11,6 @@ into reports with Power Query, and create dashboards.
 SQL (PostgreSQL) · Python (pandas, SQLAlchemy, PyTorch, MONAI) · SAP ·
 Power BI · Power Query · Excel / VBA · Git
 
-## Tech
-
-SQL (PostgreSQL) · Python (pandas, SQLAlchemy, PyTorch, MONAI) · SAP ·
-Power BI · Excel / VBA · Git
-
 ## Projects
 
 - **[Olist E-Commerce Analytics](https://github.com/annasiwiecka/olist-ecommerce-analytic)** *(in progress)*: layered pipeline

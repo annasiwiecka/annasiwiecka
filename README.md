@@ -3,7 +3,13 @@
 I build data pipelines, data quality checks and analytics on top of
 well-modelled data. Currently completing a BEng in Computer Science in Engineering
 (graduating 2027) and working in service agreement management, where I build
-Excel/VBA macros for mass data uploads to SAP billing and create dashboards.
+Excel/VBA macros for mass data uploads to SAP billing, automate data loading
+into reports with Power Query, and create dashboards.
+
+## Tech
+
+SQL (PostgreSQL) · Python (pandas, SQLAlchemy, PyTorch, MONAI) · SAP ·
+Power BI · Power Query · Excel / VBA · Git
 
 ## Tech
 

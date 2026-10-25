@@ -1,7 +1,7 @@
 ## About me
 
-Currently completing a BEng in Computer Science in Engineering
-(graduating 2027) and working in service agreement management, where I build
+I'm currently completing a BEng in Computer Science in Engineering
+(graduating 2027) and I'm working in service agreement management, where I build
 Excel/VBA macros for mass data uploads to SAP billing, automate data loading
 into reports with Power Query, and create dashboards.
 
